@@ -17,7 +17,7 @@
 * evict
 * translation lookaside buffer
 ### How cache work:
-![alt text](..\direct-mapping-cache.png)
-![alt text](..\set-assosiate-cache.png)
+![alt text](direct-mapping-cache.png)
+![alt text](set-assosiate-cache.png)
 ### Test proccessor characteristics
-![alt text](..\env-cache.png)
+![alt text](env-cache.png)
